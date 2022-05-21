@@ -4,11 +4,11 @@ Source code for the Super Nintendo Reverse Engineering Challenges From NorthSec 
 These challenges required you to provide the correct input in order to calcualte the correct offsets used to print the flag.
 
 For a comprehensive writeup, please read the very neat work done by Ben Gardiner (@0xstatic):
-https://gist.github.com/BenGardiner/13fe76fd43f179a872acbb9f5729eb2c
+- https://gist.github.com/BenGardiner/13fe76fd43f179a872acbb9f5729eb2c
 
 Another writeup is available thanks to the Hubert Hacking CTF team:
-https://huberthackin.gitlab.io/posts/nsec21-rare-metal-sequencer/
-https://huberthackin.gitlab.io/posts/nsec21-rare-metal-sequencer-2/
+- https://huberthackin.gitlab.io/posts/nsec21-rare-metal-sequencer/
+- https://huberthackin.gitlab.io/posts/nsec21-rare-metal-sequencer-2/
 
 ## LEVEL 1 solution
 Requires you to understand what are the expected inputs on Joypad-01.
